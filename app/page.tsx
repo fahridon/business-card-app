@@ -116,11 +116,11 @@ export default async function Home() {
         
         {/* Action Buttons */}
         <div className="flex flex-col gap-3">
-          <a href="https://github.com" target="_blank" className="w-full py-3 px-4 bg-emerald-600 rounded-lg border border-emerald-500 hover:bg-emerald-500 transition">
-            GitHub
+          <a href="https://github.com/fahridon/" target="_blank" className="w-full py-3 px-4 bg-emerald-600 rounded-lg border border-emerald-500 hover:bg-emerald-500 transition">
+            GitHub : Fahri Dönmez
           </a>
-          <a href="https://linkedin.com" target="_blank" className="w-full py-3 px-4 bg-yellow-400 rounded-lg border border-yellow-300 hover:bg-yellow-300 transition text-gray-900">
-            LinkedIn
+          <a href="https://www.linkedin.com/in/fahri-donmez-42610947/" target="_blank" className="w-full py-3 px-4 bg-yellow-400 rounded-lg border border-yellow-300 hover:bg-yellow-300 transition text-gray-900">
+            LinkedIn : Fahri Dönmez
           </a>
 
           <form action={submitToCap}>
